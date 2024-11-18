@@ -12,7 +12,7 @@
 ![3](https://img.shields.io/badge/helm-blue?style=flat&logo=helm&logoColor=white&logoSize=auto&color=%230F1689)
 ![3](https://img.shields.io/badge/ansible-blue?style=flat&logo=ansible&logoColor=white&logoSize=auto&color=%23EE0000)  
 ![4](https://img.shields.io/badge/postgresql-blue?style=flat&logo=postgresql&logoColor=white&logoSize=auto&color=%234169E1)
-![4](https://img.shields.io/badge/PgAdmin-blue?style=flat&logo=postgresql&logoColor=white&logoSize=auto&color=%2334567C)  
+![4](https://img.shields.io/badge/pgadmin-blue?style=flat&logo=postgresql&logoColor=white&logoSize=auto&color=%2334567C)  
 ![5](https://img.shields.io/badge/harbor-blue?style=flat&logo=harbor&logoColor=white&logoSize=auto&color=%2360B932)
 ![5](https://img.shields.io/badge/elasticsearch-blue?style=flat&logo=elasticsearch&logoColor=white&logoSize=auto&color=%23005571)
 ![5](https://img.shields.io/badge/prometheus-blue?style=flat&logo=prometheus&logoColor=white&color=%23E6522C)

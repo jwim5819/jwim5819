@@ -22,8 +22,12 @@
 ![6](https://img.shields.io/badge/pycharm-blue?style=flat&logo=pycharm&logoColor=white&color=%23578B34)
 ![6](https://img.shields.io/badge/markdown-blue?style=flat&logo=markdown&logoColor=white&color=%23999999)
 
+![cka-certified-kubernetes-administrator](https://github.com/user-attachments/assets/61233296-5b61-4310-ae66-b5c5f5755867)
+
 [![Top Langs](https://jwim5819-github-readme-stats.vercel.app/api/top-langs/?username=jwim5819&cache_seconds=0&layout=compact&theme=one_dark_pro&card_width=437)](https://github.com/jwim5819)  
 [![Jaewon's GitHub stats](https://jwim5819-github-readme-stats.vercel.app/api?username=jwim5819&count_private=true&show_icons=true&include_all_commits=true&theme=one_dark_pro&cache_seconds=0&rank_icon=github&card_width=437)](https://github.com/jwim5819)
+
+
 
 
 <div align=center>

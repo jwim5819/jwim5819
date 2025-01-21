@@ -1,4 +1,4 @@
-# Jaewon Lim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwim5819&count_bg=%23658AB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Velog](https://img.shields.io/badge/velog-blue?style=flat&logo=velog&logoColor=white&logoSize=auto&color=%2320C997)](https://velog.io/@jwim5819/posts) [![Gmail](https://img.shields.io/badge/gmail-blue?style=flat&logo=gmail&logoColor=white&logoSize=auto&color=%23EA4335)](mailto:jwim5819@gmail.com) 
+# Jaewon Lim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwim5819&count_bg=%23658AB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Blog](https://img.shields.io/badge/blog-blue?style=flat&logo=github&logoColor=white&logoSize=auto&color=%23222222)](https://jwim5819.github.io) [![Gmail](https://img.shields.io/badge/gmail-blue?style=flat&logo=gmail&logoColor=white&logoSize=auto&color=%23EA4335)](mailto:jwim5819@gmail.com) 
 
 ### 👋 Hello World !!
 
